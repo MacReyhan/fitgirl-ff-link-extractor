@@ -16,7 +16,7 @@ If you prefer to run the raw Python code:
 1. Clone this repository:
    ```bash
    git clone https://github.com/zouhirdev/fitgirl-ff-link-extractor.git
-   cd YOUR_REPO_NAME
+   cd fitgirl-ff-link-extractor
    ```
 2. Set up your environment and install dependencies:
    ```bash
